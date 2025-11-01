@@ -19,5 +19,3 @@ shipping_label("Dr.", "Spongebob", "Squarepants",
                city="Detroit",
                state="MI",
                zip="54321")
-
-print()
